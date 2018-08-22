@@ -1,0 +1,19 @@
+body	{font-family: Verdana; font:size: 14pt;}
+
+P{margin-left: 10pt; margin-right:10pt;}
+		
+a {text-decoration: none; color:black;}
+
+img {border-color:#545859;}
+
+table{width:65%;
+	margin-left:auto;
+	margin-right:auto;
+	border-color:#545859;
+	border-style:ridge;
+	border-width:10px;}
+tr.stripe	{background.color:#d8d8ce;}
+
+td.bolder	{font.weight: bold;}
+
+
